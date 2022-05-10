@@ -1,0 +1,22 @@
+{
+  "name": "eth-basic",
+  "version": "0.1.0",
+  "description": "deploying basic ethereum contract to ethereum testnet",
+  "main": " ",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ethereum",
+    "solidity"
+  ],
+  "author": "GT",
+  "license": "MIT",
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^2.0.8",
+    "fs": "^0.0.1-security"
+  }
+}
